@@ -1,0 +1,18 @@
+.signup-box{
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius:8px;
+    border: 1px solid #ccc;
+}
+
+.signup-login {
+    width: 350px;
+    margin: 50px auto; /* Centers the box on the page */
+    padding: 30px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
